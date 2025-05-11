@@ -14,7 +14,7 @@ I am a *Java Full Stack Developer* passionate about building scalable and effici
 
 ## 📫 Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/mounikaparvata/)
-- [Email](mailto:mounika@example.com)
+- [Email](mailto:mounikaparvatha613@gmail.com)
 
 Thanks for visiting my profile!
 
